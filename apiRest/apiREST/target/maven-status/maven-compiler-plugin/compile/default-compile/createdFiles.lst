@@ -1,0 +1,4 @@
+com\wladytb\apirest\modelo\usuarios.class
+com\wladytb\apirest\webServices\usuarioResources.class
+com\wladytb\apirest\controlador\usuarioDAO.class
+com\wladytb\apirest\webServices\ApplicationConfig.class
